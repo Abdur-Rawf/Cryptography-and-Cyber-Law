@@ -852,6 +852,6 @@ After completing and checking the examples, the learner should be able to:
 ---
 
 <p align="center">
-  <b>Prepared by Abdur Rawf Akan</b><br>
-  Student ID: IT23050
+  <b>Prepared by Abdur Rawf Akand</b><br>
+  ID: IT23050
 </p>
