@@ -1,6 +1,6 @@
 <!--
-Student: Abdur Rawf Akan
-Student ID: IT23050
+# Student: **Abdur Rawf Akand**
+# Student ID: IT23050
 Project: Number Theory and Cryptography Workshop
 -->
 
