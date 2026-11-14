@@ -6,10 +6,10 @@ Project: Number Theory and Cryptography Workshop
 
 <h1 align="center">Number Theory and Cryptography Workshop</h1>
 
-<p align="center">
-  <b>Student Name:</b> Abdur Rawf Akan &nbsp; | &nbsp;
-  <b>Student ID:</b> IT23050
-</p>
+<h2 align="center">
+  <b> Name:&nbsp&nbsp</b> Abdur Rawf Akand &nbsp; | &nbsp;
+  <b> ID:&nbsp&nbsp</b> IT23050
+</h2>
 
 <p align="center">
   <i>A mathematical and computational study of number theory, modular arithmetic, and classical public-key cryptography using Python.</i>
@@ -35,7 +35,6 @@ Project: Number Theory and Cryptography Workshop
 14. [Worked Examples](#14-worked-examples)
 15. [Security Notes and Limitations](#15-security-notes-and-limitations)
 16. [Learning Outcomes](#16-learning-outcomes)
-17. [References](#17-references)
 
 ---
 
@@ -849,16 +848,6 @@ After completing and checking the examples, the learner should be able to:
 4. Apply Euler's theorem, Fermat's Little Theorem, and the Chinese Remainder Theorem to small problems.
 5. Explain the relationship between elementary number theory and RSA.
 6. Write small Python functions to implement and verify mathematical procedures.
-
-## 17. References
-
-1. **Workshop repository:** [Number Theory and Cryptography Workshop â€” mnp-club](https://github.com/mnp-club/Number_Theory_and_Cryptography_Workshop). The repository is the primary course resource; consult its actual session slides, recordings, assignments, and reference materials for the precise workshop coverage.
-2. **Python documentation:** [Built-in Functions â€” `pow`](https://docs.python.org/3/library/functions.html#pow).
-3. **Python documentation:** [The `math` module](https://docs.python.org/3/library/math.html).
-4. **Google Colab:** [Welcome to Colab](https://colab.research.google.com/).
-5. **Jupyter:** [Project Jupyter](https://jupyter.org/).
-6. Rivest, R. L., Shamir, A., and Adleman, L. (1978). *A Method for Obtaining Digital Signatures and Public-Key Cryptosystems*. Communications of the ACM, 21(2), 120â€“126. https://doi.org/10.1145/359340.359342
-7. NIST. [Recommendation for Key-Management: Part 1 â€” General](https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final).
 
 ---
 
